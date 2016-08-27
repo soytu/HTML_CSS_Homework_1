@@ -1,0 +1,113 @@
+body {
+	background-color: #F8F8F8;
+	}
+a {
+	color: #663300;
+	font-family: "Times New Roman", serif, Verdana;
+	}
+ul {
+	list-style-type: none;
+	}
+fieldset {
+	width: 450px;
+	}
+
+.container {
+	width: 1000px;
+	margin: 0 auto;
+	}
+.header {
+	height: 150px;
+	border-bottom: 2px solid #636161;
+	}
+.content{
+	height: 700px;
+	width: 1000px;
+	margin-top: 20px;
+	}
+.footer{
+	height: 50px;
+	background-color: #eaeaea;
+	border-top: 2px solid #636161;
+	}
+.footer p {
+	float: right;
+	}
+.logo {
+	float: left;
+	margin-left: 10px;
+	margin-right: 700px;
+	}
+
+.menu li {
+	display: inline-block;
+	margin-top: 80px;
+	}
+.discript{
+	display: inline-block;
+	margin-left:50px;
+}
+.discript2{
+	display: inline-block;
+}
+.img-product{
+	float: left;
+	margin: 10px;
+}
+
+.img-catalog ul li{
+	display: inline-block;
+}
+.product{
+	color: black;
+	font-size: 18px;
+	font-weight: 400;
+	background-color: #eaeaea;
+	}
+td, .shortdiscription{
+	color: #707070;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 16px;
+	}
+.longdescription{
+	color: #484343;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	text-align: left;
+	}
+.menu li a:hover {
+	color:#0ff;
+	}
+
+input[type="text"], input[type="email"] {
+	height: 20px;
+	width: 300px;
+	font-color: #606060;
+	font-size: 12px;
+	}
+input[type="text"]{
+	text-transform: capitalize;
+	}
+
+
+input[type="email"]:valid {
+	color: white;
+	background-color: #848383;
+	}
+
+form {
+	float: left;
+	}
+.map{
+	float: right;
+	margin: 30px;
+	}
+input[type="button"]:hover {
+	color: #606060;
+		}
+
+
+
+
